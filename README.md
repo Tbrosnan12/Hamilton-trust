@@ -1,8 +1,7 @@
 This repository is the acumulation of my work from the Hamilton trust summer internship 2023. 
+This includes, a proposal, a poster, a presentation and a final report. 
 
-
-
-
+Also included is the code i developed.
 This code will take in a pulsar paramter file (.par) and create a mass-mass diagram for the pulsar and its binary companion based on the predicted values of the post Keplerian parameters by GR.
 
 The code is called by running: python mass.py parfile.par
