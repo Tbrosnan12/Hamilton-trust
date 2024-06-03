@@ -162,5 +162,5 @@ h6,_ = P6.legend_elements()
 ax.legend([h1[0], h2[0], h3[0], h4[0], h5[0], h6[0]], ['Shapiro range', 'sin(i)','Einstein delay','Period dot',
            'omega dot', 'sin(i)>1'])
 
-plt.savefig(f"images/{'Mass-mass'+ Find('PSRJ',1)}")
+plt.savefig(f"images/{'Mass-mass'+ Find('PSRJ',1)}")  # for saving the images in a folder called images
 #plt.show()
