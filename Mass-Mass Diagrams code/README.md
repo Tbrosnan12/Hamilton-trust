@@ -8,3 +8,5 @@ Extra files in here are test pulsar data
 
 Here is an example of what the Output will look like 
 ![image](https://github.com/Tbrosnan12/mass-mass-diagrams-code/assets/124216087/fbf3d394-0d46-424f-ad37-78f496a8fe2a)
+
+Diagram generator, which using massMulti.py generates a mass mass diagram for each .txt file in the directory and puts them in a folder called images
